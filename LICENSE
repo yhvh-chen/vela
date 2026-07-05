@@ -1,0 +1,27 @@
+Vela Astrology Skill — License
+
+Copyright (c) 2026 DATATECHIE PTY LTD.
+
+This entire package — including all code (Python scripts, tests) and documentation (SKILL.md, README files, and all reference materials) — is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+You can view the full legal code of the license at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Under this license, you are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+
+--------------------------------------------------------------------
+Third-Party Components & Data
+--------------------------------------------------------------------
+
+This package utilizes the following third-party components which are subject to their own respective open-source licenses:
+- Swiss Ephemeris (data & algorithms) — © Astrodienst AG, Zürich. Dual-licensed under AGPL-3.0 or Swiss Ephemeris Professional License. (https://www.astro.com/swisseph/)
+- kerykeion — AGPL-3.0. (https://github.com/g-battaglia/kerykeion)
+- pyswisseph — AGPL-3.0. (https://github.com/astrorigin/pyswisseph)
+
+Nothing in this license overrides or relicenses these third-party components; their original licenses still apply to their respective code and data.

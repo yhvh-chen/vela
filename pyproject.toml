@@ -1,0 +1,20 @@
+[project]
+name = "kerykeion-astrology-skill"
+version = "0.1.0"
+description = "Astrological calculation skill — callable Python scripts for Agent use"
+dependencies = [
+    "pydantic>=2.6.3",
+    "kerykeion==3.4.3",
+    "geopy>=2.4.1",
+    "timezonefinder>=6.2.0",
+]
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.2",
+    "pytest-asyncio>=0.23.5",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
